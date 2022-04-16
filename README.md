@@ -9,6 +9,4 @@ Tested branch commands
 
 commit commit commit
 
-commit commit commit
-
 Hello Odin!
