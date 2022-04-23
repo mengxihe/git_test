@@ -7,6 +7,4 @@ Tested commands such as git status, git add, git commit, git push, git pull
 
 Tested branch commands
 
-commit commit commit
-
 Hello Odin!
