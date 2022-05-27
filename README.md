@@ -10,5 +10,3 @@ Tested branch commands
 Hello Odin!
 Followed the guide from the odin project git basics
 odin project
-git test
-test
