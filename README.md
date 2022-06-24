@@ -8,4 +8,4 @@ Tested commands such as git status, git add, git commit, git push, git pull
 Tested branch commands
 
 Hello Odin!
-Followed the guide from the odin project git basics.
+Followed the guide from the odin project git practice.
